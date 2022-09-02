@@ -1,4 +1,11 @@
 # HTR Phylogeny 
+
+## File name: HTR trees
+
+**Function:**
+
+Documents all steps from input MSA files to output tree files.  
+
 ## File name: HTR_chronogram
 
 **Code function:**
