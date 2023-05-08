@@ -41,3 +41,10 @@ Calculates the plots from identity scores and evolutionary time
 **Location in Results:**
 
 Pairwise Alignment Score of HTR Orthologues Informs High Sequence Identity (Thesis Chapter Three: An Updated Phylogeny of the Serotonin Receptors: One Ligands' Evolutionary Commitment to Three Signalling Fates)
+
+
+## File name: Models
+
+**Function:**
+
+MEGA-X ``Find Best DNA/Protein Models (ML)'' analysis, which compared 24 substitution models for the alignment
